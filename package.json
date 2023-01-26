@@ -1,0 +1,15 @@
+{
+  "name": "chat-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahil Patel",
+  "license": "ISC",
+  "dependencies": {
+    "@pedroslopez/moduleraid": "^5.0.2",
+    "puppeteer": "^19.6.0"
+  }
+}
